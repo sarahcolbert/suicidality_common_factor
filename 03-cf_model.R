@@ -10,7 +10,7 @@ library(dplyr)
 library(data.table)
 require(GenomicSEM)
 
-## set date
+## set date for version control
 date <- format(Sys.Date(), format = "%Y%m%d")
 
 ## set working directory
